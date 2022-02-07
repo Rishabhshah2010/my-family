@@ -1,3 +1,4 @@
 body {background-color: snow;}
-p {font-size: 10px;}
-h3 {font-weight: 200;}
+p {font-size: 10px;
+    text-align: center;
+}

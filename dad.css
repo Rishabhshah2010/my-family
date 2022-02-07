@@ -1,2 +1,4 @@
 body {background-color: whitesmoke;}
-p {font-size: 10px;}
+p {font-size: 10px;
+    text-align: center;
+}
